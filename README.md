@@ -1,6 +1,6 @@
 # HTTP-Remote
 
-Ez a legjobb remote amit valaha csináltam
+Ez jobb remote amit valaha csináltam
 
 guthember irja
 
